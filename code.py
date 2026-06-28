@@ -28,3 +28,8 @@ YELLOW   =   (255, 255,   0)
 ORANGE   =   (255, 128,   0) 
 PURPLE   =   (255,   0, 255) 
 CYAN     =   (  0, 255, 255)
+
+bgColor = NAVYBLUE
+lbgColor = GRAY
+boxColor = WHITE
+highlightColor = RED
